@@ -1,0 +1,23 @@
+#a[2][3]=3
+<not fill>size:14
+<fail>size:13 a[3][6]
+<fail>size:12 a[1][6]
+<fail>size:11 a[1][1]
+#a[2][2]=0
+<fill>size:10 sum:+3
+<fail>size:10 a[1][2]
+<fail>size:9 a[3][2]
+#a[2][4]=0
+<fill>size:8 sum:+3
+<fail>size:8 a[2][2]
+#a[2][5]=10
+<not fill>size:8
+<fail>size:7 a[3][5]
+<fail>size:6 a[1][3]
+<fail>size:5 a[1][4]
+<fail>size:4 a[1][5]
+<fail>size:3 a[2][6]
+<fail>size:2 a[3][4]
+<fail>size:1 a[3][1]
+<fail>size:0 a[2][5]
+6

@@ -1,0 +1,9 @@
+WA 5
+WA 5
+WA 5
+WA 7
+RE 6
+WA 4
+WA 9
+WA 8
+AC 10

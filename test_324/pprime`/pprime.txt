@@ -1,0 +1,28 @@
+1.5.2Prime Palindromes 回文质数描述
+因为151既是一个质数又是一个回文数(从左到右和从右到左是看一样的)，所以 151 是回文质数。
+写一个程序来找出范围[a,b](5 <= a < b <= 100,000,000)( 一亿)间的所有回文质数;
+格式
+PROGRAM NAME: pprime
+INPUT FORMAT:
+(file pprime.in)
+第 1 行: 二个整数 a 和 b .
+OUTPUT FORMAT:
+(file pprime.out)
+输出一个回文质数的列表，一行一个。
+
+SAMPLE INPUT
+5 500 
+
+SAMPLE OUTPUT
+5
+7
+11
+101
+131
+151
+181
+191
+313
+353
+373
+383

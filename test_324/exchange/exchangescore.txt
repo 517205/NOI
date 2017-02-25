@@ -1,0 +1,6 @@
+WA 1
+WA 6
+WA 0
+WA 7
+WA 7
+WA 7
